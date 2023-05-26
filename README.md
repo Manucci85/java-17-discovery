@@ -1,4 +1,5 @@
 # java-17-discovery
+
 ## Goal of this ?
 Discovery of Java 17's features for busy developers through a concise and practical learning path for Java developers willing to stay updated. However this first version is not a "from zero to Hero" learning path.
 
